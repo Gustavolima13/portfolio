@@ -188,7 +188,7 @@
         }
 
         #imagem-principal,
-        .classe-imagem-sobre {
+        .classe-imagem-sobre {              
             width: 60%;
                 max-height: 40vh;   
             }
